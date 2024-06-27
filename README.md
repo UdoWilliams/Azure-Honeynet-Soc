@@ -10,7 +10,7 @@ In this project, I constructed a small honeynet within Azure, capturing logs fro
 - SecurityIncident (Incidents created by Sentinel)
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
-# Objective
+# Objectives
 The primary goal of this project was to configure intentionally vulnerable virtual machines within Azure infrastructure to attract and analyze cyber attacks. This initiative enhanced my understanding of attacker tactics and techniques, demonstrating my capability to promptly and effectively address identified vulnerabilities.
 
 # Technologies, Regulations, and Azure Components Employed:
